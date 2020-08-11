@@ -1,0 +1,17 @@
+<html>
+<body>
+<font face="Calibri">
+<p>
+Today is your lucky day.<br>
+You have been chosen to review a workflow that has been submitted by someone within the organization.<br>
+You have an opportunity to either make someone's day, or crush all their hopes and dreams by either approving or declining this workflow.<br>
+This is a great responsibility and if the burden of this responsibility is too great then you can pass the buck by delegating this task to some other poor soul within your department.<br>
+Just as a heads up, here is a little more information on the workflow:<br>
+%message%<br>
+Your task, should you choose to accept it is to click <A href="https://{servername}.cloudax.dynamics.com/?cmp=USMF&prt=initial&mi=display:WorkflowWorkListAssignedToMe">here</A> to view and take action on your workflow approvals.<br>
+As always should any member of your department be caught or killed, the secretary will disavow all knowledge of your actions.  This email notification will self-destruct in five seconds.<br>
+Good luck.<br>
+</p>
+</font>
+</body>
+</html>
